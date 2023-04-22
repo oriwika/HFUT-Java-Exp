@@ -1,0 +1,3 @@
+5	0	4	Thingy
+17	30	6	Widget,blue
+123123	999000	98	Doohicky

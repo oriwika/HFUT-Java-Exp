@@ -1,0 +1,5 @@
+5,2,man
+1,3,man
+10,8,man
+123456,456,man
+qqq,www,man
