@@ -1,2 +1,2 @@
 # HFUT-Java-Exp
-合肥工业大学大一Java技术陆强课程Java实验
+合肥工业大学Java实验，计科大一Java技术陆强
